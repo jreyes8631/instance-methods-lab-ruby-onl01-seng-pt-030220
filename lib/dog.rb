@@ -18,3 +18,8 @@ class Dog
   end 
 end
 fido.bark 
+
+snoopy = Dog.new
+lassie = Dog.new
+snoopy.bark
+lassie.bark 
